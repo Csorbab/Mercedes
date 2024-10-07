@@ -1,0 +1,15 @@
+#content {
+    background-color: rgba(0, 255, 255, 0.664);
+    width: 500px;
+    border: solid 7px cyan;
+    padding: 10px;
+    margin: auto;
+}
+
+img {
+    max-width: 300px;
+}
+
+body {
+    background-color: rgba(74, 228, 228, 0.856);
+}
