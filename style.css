@@ -1,9 +1,10 @@
 #content {
     background-color: rgba(0, 255, 255, 0.664);
-    width: 500px;
+    width: 600px;
     border: solid 7px cyan;
     padding: 10px;
     margin: auto;
+    border-radius: 10px;
 }
 
 img {
